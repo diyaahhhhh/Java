@@ -1,1 +1,1 @@
-## 📜Some Java codes from scratch(just a beginner!)
+## 📜Java codes from scratch(just a beginner!)
