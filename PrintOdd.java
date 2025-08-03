@@ -2,6 +2,8 @@ package lab1;
 
 import java.util.Scanner;
 
+//Printing odd numbers till 50
+
 public class PrintOdd {
 public static void main(String[] args) {
 	int i;
