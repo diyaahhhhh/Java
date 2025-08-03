@@ -2,6 +2,9 @@ package lab1;
 
 import java.util.Scanner;
 
+//To print natural numbers till an inputted limit
+
+
 public class Printnatural {
 public static void main(String[] args) {
 	int i;
