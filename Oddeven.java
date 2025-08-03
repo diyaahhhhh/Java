@@ -2,6 +2,8 @@ package lab1;
 
 import java.util.Scanner;
 
+//To check if a given number is odd or even
+
 public class Oddeven {
 public static void main(String[] args) {
 	Scanner sc=new Scanner(System.in);
