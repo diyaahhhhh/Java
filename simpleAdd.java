@@ -2,6 +2,8 @@ package lab1;
 
 import java.util.Scanner;
 
+//A program that simply adds two numbers
+
 public class Add {
 public static void main(String[] args) {
 	int Sum;
