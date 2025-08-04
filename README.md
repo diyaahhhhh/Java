@@ -1,1 +1,2 @@
-### -📜Java codes from scratch(just a beginner!)
+### 📁 Simple Java codes
+- Just a beginner, bear with me🚶‍♀️
