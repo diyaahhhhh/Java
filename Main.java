@@ -1,3 +1,5 @@
+//Use of staic variables and methods
+
 package lab1;
 
 class Student{
